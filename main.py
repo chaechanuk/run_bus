@@ -14,7 +14,7 @@ cloc = pygame.time.Clock()
 x1 = 100
 y1 = 100
 
-x2 = 400
+x2 = 600
 y2 = 100
 
 
